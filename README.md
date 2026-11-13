@@ -1,2 +1,5 @@
 # HackerWorkbench
-HackerWorkbench 掌旗安全智能体中枢系统是专为安全专家与白帽黑客量身打造的本地化智能体作业系统。
+
+HackerWorkbench Flag Security Agent Central System is a localized agent operating system specifically designed for security experts and white-hat hackers, offering permanent free usage. The system deeply integrates multi-agent collaboration capabilities, unifying security tool functions such as information gathering, vulnerability scanning, binary analysis, data analysis, and report generation. By connecting to a scheduling middle platform, it intelligently completes the full workflow chain of tool orchestration, task decomposition, multi-tool coordinated execution, and result review, breaking free from the limitations of traditional tools with fixed rules. Leveraging large models to dynamically adjust work strategies, it delivers auditable, standardized security operations.
+
+This project serves as a technical test prototype, solely for verifying the feasibility of the agent. Subsequent efforts will focus on developing a specialized agent dedicated to team collaboration capabilities.
